@@ -43,7 +43,6 @@ class UpdateAccountForm(FlaskForm):
             if user:
                 raise ValidationError('That username is taken. Please choose a different one.')
 
-
     def validate_email(self, email):
         if email.data != current_user.email:
             user = User.query.filter_by(email=email.data).first()
@@ -64,7 +63,8 @@ class RequestRestFrom(FlaskForm):
     def validate_email(self, email):
         user = User.query.filter_by(email=email.data).first()
         if user is None:
-            raise ValidationError('There is no account with that email. You must register first')
+            raise ValidationError(
+                'If an account with this email address exists, a password reset message will be sent shortly.')
 
 
 class ResetPasswordForm(FlaskForm):
