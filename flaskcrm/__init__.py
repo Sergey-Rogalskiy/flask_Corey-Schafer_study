@@ -26,8 +26,10 @@ def create_app(config_class=Config):
     from flaskcrm.users.routes import users
     from flaskcrm.posts.routes import posts
     from flaskcrm.main.routes import main
+    from flaskcrm.errors.handlers import errors
     app.register_blueprint(users)
     app.register_blueprint(posts)
     app.register_blueprint(main)
+    app.register_blueprint(errors)
 
     return app
