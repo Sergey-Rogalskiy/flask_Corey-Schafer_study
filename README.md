@@ -20,8 +20,8 @@ The local web will be available on port 5000
 
 # Interface
 <div>
-  <img align="left" style="margin:1rem 0.5rem"  width=50% src="https://user-images.githubusercontent.com/72499342/123174587-07b76680-d489-11eb-8e29-d4f3283c498e.png" />
-  <img align="right" style="margin:1rem 0.5rem" width=50% src="https://user-images.githubusercontent.com/72499342/123174633-1736af80-d489-11eb-9f77-367b75689e69.png" />
+  <img align="left" style="margin:1rem 0.5rem"  width=100 src="https://user-images.githubusercontent.com/72499342/123174587-07b76680-d489-11eb-8e29-d4f3283c498e.png" />
+  <img align="right" style="margin:1rem 0.5rem" width=100 src="https://user-images.githubusercontent.com/72499342/123174633-1736af80-d489-11eb-9f77-367b75689e69.png" />
 </div>
 <br>
 
