@@ -6,7 +6,7 @@ It is a web-blog designed on Flask.
 1. Run `pip install -r requirements.txt`
 After that, all the dependicies will be installed.
 2. Run `python run.app`
-The local web will be available on port 000
+The local web will be available on port 5000
 
 # Functionality
 * Create a user with email verification
@@ -20,8 +20,8 @@ The local web will be available on port 000
 
 # Interface
 <p float="left">
-  <img align="left" style="margin:1rem 0.5rem" src="https://user-images.githubusercontent.com/72499342/123174587-07b76680-d489-11eb-8e29-d4f3283c498e.png" />
-  <img align="right" style="margin:1rem 0.5rem" src="https://user-images.githubusercontent.com/72499342/123174633-1736af80-d489-11eb-9f77-367b75689e69.png" />
+  <img align="left" style="margin:1rem 0.5rem width:50%" src="https://user-images.githubusercontent.com/72499342/123174587-07b76680-d489-11eb-8e29-d4f3283c498e.png" />
+  <img align="right" style="margin:1rem 0.5rem width:50%" src="https://user-images.githubusercontent.com/72499342/123174633-1736af80-d489-11eb-9f77-367b75689e69.png" />
 </p>
 
 # Plans and status
