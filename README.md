@@ -19,10 +19,10 @@ The local web will be available on port 000
 * Python, Flask
 
 # Interface
-![image](https://user-images.githubusercontent.com/72499342/122996275-5db9da80-d3b3-11eb-940b-6f853541aada.png) ![image](https://user-images.githubusercontent.com/72499342/122996339-70341400-d3b3-11eb-9960-0d92e04c0eb0.png)![image](https://user-images.githubusercontent.com/72499342/122996385-7b873f80-d3b3-11eb-8843-9aaf1d66d833.png)
-![image](https://user-images.githubusercontent.com/72499342/122996440-8b9f1f00-d3b3-11eb-920c-475f50b4b24a.png)
-![image](https://user-images.githubusercontent.com/72499342/123174587-07b76680-d489-11eb-8e29-d4f3283c498e.png)
-![image](https://user-images.githubusercontent.com/72499342/123174633-1736af80-d489-11eb-9f77-367b75689e69.png)
+
+  <img align="center" style="margin:1rem 0.5rem" src="https://user-images.githubusercontent.com/72499342/123174587-07b76680-d489-11eb-8e29-d4f3283c498e.png" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://user-images.githubusercontent.com/72499342/123174633-1736af80-d489-11eb-9f77-367b75689e69.png" />
+
 
 # Plans and status
 I implemented all the features from the youtube course so no further development is planned.
